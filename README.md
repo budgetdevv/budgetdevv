@@ -9,15 +9,19 @@ My goal is to eventually become good at low-level topics, since help is very lim
 __**Tools I Use**__
 
 • Rider ( Running .NET 7 )
+
 • Git Bash ( And consequentially Git )
 
 __**Interests**__
 
 • Performance optimization
+
 • Pretty much most things low-level
+
 • Experimenting a little with machine learning as of recent
 
 __**Credits**__
+
 
 • Norbo for making BepuPhysics, my main source of inspiration
 • Ximvu, Phrosty, JDPhenix from for their past guidance
