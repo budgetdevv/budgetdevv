@@ -24,4 +24,5 @@ __**Credits**__
 
 
 • Norbo for making BepuPhysics, my main source of inspiration
+
 • Ximvu, Phrosty, JDPhenix from for their past guidance
