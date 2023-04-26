@@ -8,9 +8,9 @@ My goal is to eventually become good at low-level topics, since help is very lim
 
 __**Tools I Use**__
 
-• Rider ( Running .NET 7 )
+• JetBraisn Rider ( Running .NET 7 SDK )
 
-• Git Bash ( And consequentially Git )
+• Git BASH ( And consequentially Git )
 
 __**Interests**__
 
@@ -22,7 +22,6 @@ __**Interests**__
 
 __**Credits**__
 
-
 • Norbo for making BepuPhysics, my main source of inspiration
 
-• Ximvu, Phrosty, JDPhenix from for their past guidance
+• Ximvu, Phrosty, JDPhenix for their past guidance
