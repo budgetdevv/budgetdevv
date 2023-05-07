@@ -8,7 +8,7 @@ My goal is to eventually become good at low-level topics, since help is very lim
 
 __**Tools I Use**__
 
-• JetBraisn Rider ( Running .NET 7 SDK )
+• JetBrains Rider ( Running .NET 7 SDK )
 
 • Git BASH ( And consequentially Git )
 
