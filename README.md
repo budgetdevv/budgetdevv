@@ -1,4 +1,4 @@
-### I'm TrumpMcDonaldz, a dev by hobby! 👋
+### I'm TrumpMcDonaldz, a student developer! 👋
 
 I enjoy writing performant algorithms, and studying low-level quirks / optimization techniques! 
 
@@ -18,7 +18,7 @@ __**Interests**__
 
 • Pretty much most things low-level
 
-• Experimenting a little with machine learning as of recent
+• Looking to explore machine learning
 
 __**Credits**__
 
