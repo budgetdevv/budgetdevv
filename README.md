@@ -1,16 +1,18 @@
 ### I'm TrumpMcDonaldz, a student developer! 👋
 
-I enjoy writing performant algorithms, and studying low-level quirks / optimization techniques! 
+I am currently a year 1 student in Temasek Polytechnic, pursuing a diploma in Information Technology!
 
-My main choice of language is C#. Recent runtimes ( .NET 5+ ) expose low-level hardware intrinsics that enable us to write high-performance code! 
+My main choice of language is C#, as its modern runtime support various hardware intrinsics used in high-performance code ( Including new AVX512 ones ). Good async support as well.
 
-My goal is to eventually become good at low-level topics, since help is very limited in this area. People skilled in their craft are often arrogant / condescending, hence I strive to become good enough to offer help to others!
+I have a keen interest in data structures and algorithms, performance optimization and most things low-level.
+
+I have also worked with Python ( Tkinter module in school ) and Objective C ( Mainly to call into C-side APIs not available via Xamarin.Mac, for my MacTweaks project ).
 
 __**Tools I Use**__
 
 • JetBrains Rider ( Running .NET 7 SDK )
 
-• Git BASH ( And consequentially Git )
+• GIT version control system
 
 __**Interests**__
 
@@ -20,8 +22,8 @@ __**Interests**__
 
 • Looking to explore machine learning
 
-__**Credits**__
+__**People who have helped / inspired me**__
 
-• Norbo for making BepuPhysics, my main source of inspiration
+• Norbo for making BepuPhysics2, my main source of inspiration
 
 • Ximvu, Phrosty, JDPhenix for their past guidance
