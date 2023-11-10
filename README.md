@@ -20,6 +20,8 @@ __**Interests**__
 
 • Pretty much most things low-level
 
+• Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, especially when there are no existing resources to guide me. Problem solving enhances my critical thinking and analytical skills, and allows me to view problems from different perspectives.
+
 • Looking to explore machine learning
 
 __**People who have helped / inspired me**__
