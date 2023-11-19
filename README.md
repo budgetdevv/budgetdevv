@@ -32,4 +32,4 @@ __**People who have helped / inspired me**__
 
 __**Socials**__
 
-• Discord - @trumpmcdonaldz
+• Discord @trumpmcdonaldz
