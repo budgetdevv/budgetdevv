@@ -29,3 +29,7 @@ __**People who have helped / inspired me**__
 • Norbo for making BepuPhysics2, my main source of inspiration
 
 • Ximvu, Phrosty, JDPhenix for their past guidance
+
+__**Socials**__
+
+• Discord - @trumpmcdonaldz
