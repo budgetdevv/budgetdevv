@@ -6,7 +6,8 @@ My main choice of language is C#, as its modern runtime support various hardware
 
 I have a keen interest in data structures and algorithms, performance optimization and most things low-level.
 
-I have also worked with Python ( Tkinter module in school ) and Objective C ( Mainly to call into C-side APIs not available via Xamarin.Mac, for my MacTweaks project ).
+I have also worked with Python ( Tkinter module in school ), Objective C ( Mainly to call into C-side APIs not available via Xamarin.Mac, for my MacTweaks project ) and x64 ASM
+( Mainly to optimize RyuJIT's codegen ).
 
 __**Tools I Use**__
 
@@ -26,9 +27,9 @@ __**Interests**__
 
 __**People who have helped / inspired me**__
 
-• Norbo for making BepuPhysics2, my main source of inspiration
+• Norbo for making BepuPhysics2. It sparked my interest in performance optimization / low-level programming.
 
-• Ximvu, Phrosty, JDPhenix for their past guidance
+• Ximvu, Phrosty, JDPhenix for being such a great help when I was first embarking on my programming journey.
 
 __**Socials**__
 
