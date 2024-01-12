@@ -11,7 +11,7 @@ I have also worked with Python ( Tkinter module in school ), Objective C ( Mainl
 
 __**Tools I Use**__
 
-• JetBrains Rider ( Running .NET 7 SDK )
+• JetBrains Rider ( Running .NET 8 SDK )
 
 • GIT version control system
 
