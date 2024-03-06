@@ -6,7 +6,7 @@ My main choice of language is C#, as its modern runtime support various hardware
 
 I have a keen interest in data structures and algorithms, performance optimization and most things low-level.
 
-__**Other languages I've worked with*__
+__**Other languages I've worked with**__
 
 • Java
 
