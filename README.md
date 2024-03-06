@@ -6,14 +6,25 @@ My main choice of language is C#, as its modern runtime support various hardware
 
 I have a keen interest in data structures and algorithms, performance optimization and most things low-level.
 
-I have also worked with Python ( Tkinter module in school ), Objective C ( Mainly to call into C-side APIs not available via Xamarin.Mac, for my MacTweaks project ) and x64 ASM
-( Mainly to optimize RyuJIT's codegen ).
+__**Other Languages I've Worked With**__
 
-__**Tools I Use**__
+• Java
 
-• JetBrains Rider ( Running .NET 8 SDK )
+• Python
+
+• Javascript / TypeScript
+
+• C / Objective-C
+
+• x86-64 Assembly
+
+__**Development Tools**__
+
+• JetBrains IDES ( Rider, PyCharm, WebStorm, CLion )
 
 • GIT version control system
+
+• DBeaver / MySQLWorkbench
 
 __**Interests**__
 
@@ -23,7 +34,7 @@ __**Interests**__
 
 • Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, especially when there are no existing resources to guide me.
 
-• Looking to explore machine learning
+• Exploring machine learning ( PyTorch, TorchSharp and ML.NET )
 
 __**People who have helped / inspired me**__
 
