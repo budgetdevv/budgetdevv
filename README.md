@@ -2,9 +2,8 @@
 
 I am currently a year 1 student in Temasek Polytechnic, pursuing a diploma in Information Technology!
 
-My main choice of language is C#, as its modern runtime support various hardware intrinsics used in high-performance code ( Including new AVX512 ones ). Good async support as well.
-
-I have a keen interest in data structures and algorithms, performance optimization and most things low-level.
+My main choice of language is C#, as its modern runtime support various hardware intrinsics used in high-performance code.
+Async-await support is golden, avoiding callback style APIs.
 
 __**Other languages I've worked with**__
 
