@@ -37,7 +37,8 @@ __**Interests**__
 
 • Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, especially when there are no existing resources to guide me.
 
-• Exploring machine learning ( PyTorch, TorchSharp and ML.NET )
+• Exploring machine learning! Currently my main interest is porting ML models from Python to C#.
+See: [FlorenceSharp](https://github.com/budgetdevv/FlorenceSharp), [OnnxEmbeddings](https://github.com/budgetdevv/OnnxEmbeddings).
 
 __**People who have helped / inspired me**__
 
