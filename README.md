@@ -36,10 +36,12 @@ __**Interests**__
 
 • Pretty much most things low-level
 
-• Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, especially when there are no existing resources to guide me.
-
 • Exploring machine learning! Currently my main interest is porting ML models from Python to C#.
+
 See: [FlorenceSharp](https://github.com/budgetdevv/FlorenceSharp), [OnnxEmbeddings](https://github.com/budgetdevv/OnnxEmbeddings).
+
+• Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, particularly when there are no existing resources to guide me.
+( Though that shouldn’t mean I prefer working without resources! )
 
 __**People who have helped / inspired me**__
 
