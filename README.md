@@ -34,12 +34,9 @@ __**Interests**__
 
 • Pretty much most things low-level
 
-• Exploring machine learning! Currently my main interest is porting ML models from Python to C#.
+• Exploring machine learning! Currently my main interest is porting ML models from Python to C# ( [FlorenceSharp](https://github.com/budgetdevv/FlorenceSharp), [OnnxEmbeddings](https://github.com/budgetdevv/OnnxEmbeddings) ).
 
-See: [FlorenceSharp](https://github.com/budgetdevv/FlorenceSharp), [OnnxEmbeddings](https://github.com/budgetdevv/OnnxEmbeddings).
-
-• Problem solving is my passion. I enjoy finding creative and original solutions to challenging situations, particularly when there are no existing resources to guide me.
-( Though that shouldn’t mean I prefer working without resources! )
+• Problem solving is my passion! I enjoy finding creative and original solutions to challenging situations, even in the absence of guidance / existing resources.
 
 __**People who have helped / inspired me**__
 
@@ -50,3 +47,11 @@ __**People who have helped / inspired me**__
 __**Socials**__
 
 • Discord @trumpmcdonaldz ( Most active )
+
+__**Misc**__
+
+• Avoid getting an 8 GB macbook model should you code on it - You will regret it!
+
+![image](https://github.com/user-attachments/assets/06d2bb04-8328-49ce-95f5-752429231db2)
+
+Well, I guess it depends...I use multiple JetBrains IDEs, and they are noctoriously RAM hungry! You will also have much better luck running machine learning models on a 16 GB model - On an 8 GB model it is going to swap like crazy!
