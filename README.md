@@ -40,7 +40,7 @@ __**Interests**__
 
 __**People who have helped / inspired me**__
 
-• Norbo for making BepuPhysics2. It sparked my interest in performance optimization / low-level programming.
+• Norbo for making [BepuPhysics2](https://github.com/bepu/bepuphysics2)! It sparked my interest in performance optimization / low-level programming.
 
 • Ximvu, Phrosty, JDPhenix for being such a great help when I was first embarking on my programming journey.
 
