@@ -15,8 +15,6 @@ __**Programming languages I've worked with**__
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=whitephp)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/objective%20c-8A1C1C?style=for-the-badge&logo=objectivec&logoColor=white)
-![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-1C7C9B?style=for-the-badge&logoColor=white)
-
 
 __**Development Tools**__
 
