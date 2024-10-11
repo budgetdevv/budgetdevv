@@ -52,6 +52,6 @@ __**Misc**__
 
 • Avoid getting an 8 GB macbook model should you code on it - You will regret it!
 
-![image](https://github.com/user-attachments/assets/06d2bb04-8328-49ce-95f5-752429231db2)
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/fdd95a54-0e8c-4bb7-9fc1-f1498ff07ba8">
 
 Well, I guess it depends...I use multiple JetBrains IDEs, and they are noctoriously RAM hungry! You will also have much better luck running machine learning models on a 16 GB model - On an 8 GB model it is going to swap like crazy!
