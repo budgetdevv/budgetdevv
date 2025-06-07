@@ -49,6 +49,8 @@ __**Socials**__
 
 __**Misc**__
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budgetdevv&theme=tokyonight)
+
 • Avoid getting an 8 GB macbook model, you will regret it!
 
 <img width="469" alt="image" src="https://github.com/user-attachments/assets/fdd95a54-0e8c-4bb7-9fc1-f1498ff07ba8">
