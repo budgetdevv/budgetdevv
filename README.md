@@ -49,7 +49,7 @@ __**Socials**__
 
 __**Misc**__
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budgetdevv&theme=tokyonight)
+![Top Langs](https://github-readme-stats-chi-three-93.vercel.app/api/top-langs/?username=budgetdevv&theme=tokyonight&hide=jupyter%20notebook)
 
 • Avoid getting an 8 GB macbook model, you will regret it!
 
