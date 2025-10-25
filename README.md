@@ -1,6 +1,6 @@
 ### I'm TrumpMcDonaldz, a student developer! 👋
 
-I am currently a year 3 student in Temasek Polytechnic, pursuing a diploma in Information Technology!
+I am currently a year 3 student pursuing a diploma in Information Technology!
 
 My main choice of programming language is C#, as its modern runtime support various hardware intrinsics used in high-performance code.
 Async-await support is huge, as it enables me to write asynchronous APIs without using ugly callbacks.
