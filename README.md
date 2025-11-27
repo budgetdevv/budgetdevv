@@ -47,6 +47,8 @@ __**Socials**__
 
 • Discord @trumpmcdonaldz ( Most active )
 
+![063c62f3454ed59018b293f9f46ea25b](https://github.com/user-attachments/assets/1cd86d75-83fa-43ea-99b5-b867e9df4c0d)
+
 __**Misc**__
 
 ![Top Langs](https://github-readme-stats-chi-three-93.vercel.app/api/top-langs/?username=budgetdevv&theme=tokyonight&hide=jupyter%20notebook)
